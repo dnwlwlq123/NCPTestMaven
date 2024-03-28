@@ -10,6 +10,7 @@
 
 	<h3>CICD 교순</h3>
 	<h3>교순 a nice day</h3>
+	<h3>교순 하루 되세요 !!</h3>
 	<img src="./image/kyo.png" alt="최교순" />
 </body>
 </html>
